@@ -8,7 +8,7 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/Greymattersbot/public-forward-bot",
+  "repository": "https://github.com/anfargaming/public-forward-bot",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
@@ -47,7 +47,7 @@
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
       "value": ""
-    },
+    }, 
     "SESSION": {
       "description": "Pyrogram string Session https://t.me/string_session_generator_658_bot",
       "value": ""
